@@ -1,7 +1,6 @@
 import './App.css';
 import Hello from './komponenty/Chapter11/Hello';
 import CarList from './komponenty/Chapter11/CarList';
-import AddTwoNumbers from './komponenty/Chapter11/AddTwoNumbers';
 
 
 function App() {
@@ -10,7 +9,6 @@ function App() {
       <header className="App-header">
         <Hello />
         <CarList />
-        <AddTwoNumbers />
       </header>
     </div>
   );
